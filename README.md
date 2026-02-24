@@ -29,9 +29,9 @@ This project, originally titled **MegaMetrix Mart**, is a comprehensive retail c
 
 ## How to Use
 1. Download the repository.  
-2. Open `Customer_Insights_MasterSheet.xlsx` to explore customer analytics outputs.  
-3. View `Retail_Analytics_Presentation.pdf` for a quick overview and insights.  
-4. Review `Retail_Analytics_Project_Report.pdf` for detailed methodology and system design.  
+2. Open  [Customer_Insights_MasterSheet.xlsx] `Customer_Insights_MasterSheet.xlsx` to explore customer analytics outputs.  
+3. View [Retail_Analytics_Presentation.pdf]`Retail_Analytics_Presentation.pdf` for a quick overview and insights.  
+4. Review [Retail_Analytics_Project_Report.pdf]`Retail_Analytics_Project_Report.pdf` for detailed methodology and system design.  
 
 ## Future Enhancements
 - Integrate real-time customer transaction data for dynamic analytics.  
